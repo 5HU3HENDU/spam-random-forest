@@ -114,7 +114,7 @@ forest.fit(trainX, trainY)
 print('Accuracy: \n', forest.score(testX, testY))
 pred = forest.predict(testX)
 
-msg = input("Type a message")
+msg = input("Type a message ")
 
 length = len(msg)
 
