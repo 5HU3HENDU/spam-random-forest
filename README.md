@@ -7,7 +7,7 @@ Spam Detection using Random Forest Machine Learning Algorithm
   <li><a href="https://conda.io/miniconda.html">Install Miniconda</a>, it's lighter version of Anaconda, a library used for machine learning in python. Anaconda consists of packages like numpy, scipy, pandas and many others. But in miniconda we have to install packages which we need (installing packages in miniconda is simple af, I have described it below)</li>
   <li>Head over to <a href = "https://docs.anaconda.com/anaconda/packages/pkg-docs.html">package list</a> and check out the name of package you want to install.</li>
   <li>Type <code>conda install ****</code> to install the package ****</li>
-  <li>For example if you want to install numpy, scipy and sklearn then type in your command line 
+  <li>For example if you want to install numpy, scipy and sklearn then type in your command line<br> 
     <code>$ conda install numpy</code><br>
     <code>$ conda install scipy</code><br>
     <code>$ conda install scikit-learn</code><br>
