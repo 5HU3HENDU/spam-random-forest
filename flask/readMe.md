@@ -4,11 +4,13 @@
 
 <ul>
 <li>Install <a href="http://flask.pocoo.org/">Flask</a></li>
-<li>Open Terminal/Command Line in this directory</li>
+  <li>Download this directory</li>
+<li>Open Terminal/Command Line in this directory </li>
 <li> Type <br>
 <code>
 $ export FLASK_APP=hello.py
+<br>
 $ flask run --host=0.0.0.0
 </code>
-<li> This is start web app on <a href="0.0.0.0:5000">0.0.0.0:5000</a>
+  <li> This will start web app on <a href="0.0.0.0:5000">0.0.0.0:5000</a></li>
 </ul>
